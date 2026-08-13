@@ -6,7 +6,14 @@ An interactive, portfolio-worthy visual mind-mapping application built with **Re
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4.0-38bdf8?style=for-the-badge&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-6.0-646cff?style=for-the-badge&logo=vite)
-![Status](https://img.shields.io/badge/Deployment-Ready-emerald?style=for-the-badge)
+![Status](https://img.shields.io/badge/Deployment-Live%20on%20Netlify-emerald?style=for-the-badge&logo=netlify)
+
+---
+
+## 🔗 Project Links
+
+- **🌐 Live Demo (Netlify):** [https://6a7de64ecb069f403ddc9dc6--voluble-pasca-bf7ac6.netlify.app/](https://6a7de64ecb069f403ddc9dc6--voluble-pasca-bf7ac6.netlify.app/)
+- **💻 GitHub Repository:** [https://github.com/vanshikatyagi93a-art/Mind-mapping-studio](https://github.com/vanshikatyagi93a-art/Mind-mapping-studio)
 
 ---
 
